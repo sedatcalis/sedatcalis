@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sedatcalis" alt="sedatcalis" /></a> </p>
 
+
+
+
+✨I am a React Frontend developer. <br></br>
+🎗I am always open to learning and consider myself a
+lifelong student.<br></br>
+🎁I am someone who constantly improves
+and enjoys reinforcing what I have learned.<br></br>
 - 📫 How to reach me **sedattcalis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
